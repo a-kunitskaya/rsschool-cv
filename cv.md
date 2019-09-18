@@ -1,14 +1,12 @@
-1. Alexandra Kunitskaya
+#Alexandra Kunitskaya
 
 
-2. Contact Info
-cell: +375 29 533 71 98
-skype: live:aleksandra.sokolovskaia
-email: alexandra.kunitskaya@gmail.com
+##Contact Info
+* cell:  +375 29 533 71 98
+* skype: live:aleksandra.sokolovskaia
+* email: alexandra.kunitskaya@gmail.com
 
-
-
-3. Summary
+##Summary
 Goal: 
 To be a full-time JS/Node.js developer
  
@@ -27,8 +25,7 @@ strong time management skills
 english C1+
 
 
-
-4. Skills
+##Skills
 programming languages & frameworks: 
 JS: Node.js, mocha, supertest
 Java: Spring, JUnit, RestAssured, Selenium
@@ -37,63 +34,50 @@ version control: GIT (GitHub, GitLab)
 
 Databases: MySQL, Datastax
 
-5. Code examples (LATEST)
-https://github.com/a-kunitskaya
-https://git.epam.com
+##Code examples
+https://github.com/a-kunitskaya/webapp
+https://github.com/a-kunitskaya/gift
+https://github.com/a-kunitskaya/testautomation
 
+##Experience
+*Jan, 2019 - Sept, 2019*
 
-6. Experience:
----------
-Jan, 2019 - Sept, 2019
-Project: EPAM Project B
-Description: API migration from Apigee/Usergrid to AWS/Datastax
+**Project:** EPAM Project B
 
-Roles: 
-test lead
-test automation engineer
-developer
+**Description:** API migration from Apigee/Usergrid to AWS/Datastax
 
-Responsibilities:
-API development (micro services)
-Reverse engineeing
-bug fixing
-test organization & management
-automated testing
+**Roles:** 
+* Test Lead
+* Test Automation Engineer
+* Developer
 
-tools/technologies:
+**Responsibilities:**
+* API development (micro services)
+* Reverse engineering
+* Bug fixing
+* Test organization & management
+* Automated testing
+
+**Tools/Technologies:**
 Node.js, express, mocha, supertest, AWS, Datastax
 ----------
-Nov, 2017 - Jan, 2019
-Project: EPAM Project A
-Description: B2B2C orders management system
+*Nov, 2017 - Jan, 2019*
 
-Role: 
-test automation engineer
+**Project:** EPAM Project A
+**Description:** B2B2C orders management system
 
-Responsibilities:
-web services & UI test automation 
-test automation framework extending 
-code review 
-regression test results analysis
+**Role:** Test Automation Engineer
 
-tools/technologies:
-Java 8, Spring, JUnit, RestAssured, Maven
-IntelliJ IDEA, Git, Jenkins, JIRA, Confluence, Postman, Kibana
--------
-Mar, 2017 - Oct, 2019
-Project: iTechArt Project A
-Description: Even management system
+**Responsibilities:**
+* Web services & UI test automation 
+* Test automation framework extending 
+* Code review 
 
-Role: 
-Software Testing Engineer 
-
-Responsibilities:
-manual functional & non-functional testing;
-bug reporting 
-communication with the customer
+**Tools/Technologies:**
+Java 8, Spring, JUnit, RestAssured, Maven, IntelliJ IDEA, Git, Jenkins, JIRA, Confluence, Postman, Kibana
 
 
-7. Education
+##Education
 2014-2018
 Belarusian State University
 International Relations Faculty
@@ -104,7 +88,7 @@ Year | Training Certificate |
 2018 | Test Automation  
 2017 | Software Testing  
 
-8. English
+##English
 C1+
 
 
