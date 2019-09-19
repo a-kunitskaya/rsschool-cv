@@ -56,7 +56,8 @@ To grow as a JS/Node.js developer
 
 **Tools/Technologies:**
 Node.js, express, mocha, supertest, AWS, Datastax
-----------
+
+---
 *Nov, 2017 - Jan, 2019*
 
 **Project:** EPAM Project A
@@ -77,11 +78,11 @@ Java 8, Spring, JUnit, RestAssured, Maven, IntelliJ IDEA, Git, Jenkins, JIRA, Co
 
 Belarusian State University, International relations faculty (2014-2018)
 
-| Year    | Training Certificate| 
+|Year|Training Certificate| 
 | ------------- |-------------| 
-| 2018|[Java Development Mentoring](https://drive.google.com/file/d/1MU2NlSU88MyDnovVwaJGMlCPS9BZIQB8/view)  |
-| 2018|[Test Automation](https://drive.google.com/file/d/1FtWdgbNdvvyR-TBRkHDUJ4uZG4QBJhZA/view)   | 
-| 2017|[Software Testing](https://drive.google.com/file/d/1unJJpaKVP8HOiHW0zLweF8N_W1AVfl8V/view) |  
+|2018|[Java Development Mentoring](https://drive.google.com/file/d/1MU2NlSU88MyDnovVwaJGMlCPS9BZIQB8/view)|
+|2018|[Test Automation](https://drive.google.com/file/d/1FtWdgbNdvvyR-TBRkHDUJ4uZG4QBJhZA/view)| 
+|2017|[Software Testing](https://drive.google.com/file/d/1unJJpaKVP8HOiHW0zLweF8N_W1AVfl8V/view)|  
 
 ## English
 C1+
