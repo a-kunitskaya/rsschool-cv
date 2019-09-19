@@ -1,45 +1,41 @@
-#Alexandra Kunitskaya
+# Alexandra Kunitskaya
 
+## Contact Info
+* **Cell**:  +375 29 533 71 98
+* **Skype**: live:aleksandra.sokolovskaia
+* **Email**: alexandra.kunitskaya@gmail.com
 
-##Contact Info
-* cell:  +375 29 533 71 98
-* skype: live:aleksandra.sokolovskaia
-* email: alexandra.kunitskaya@gmail.com
-
-##Summary
-Goal: 
-To be a full-time JS/Node.js developer
+## Summary
+**Goal:**
+To grow as a JS/Node.js developer
  
-Experienced in:
-automated testing in Java/JS
-combining automated tester & developer project roles
+**Experienced in:**
+* automated testing in Java/JS
+* combining automated tester & developer project roles
 
-Roles:
-test automation engineer
-test lead
-developer
+**Roles:**
+* Test automation engineer
+* Test lead
+* Node.js developer
 
-Strengths: 
-nonstop self-education
-strong time management skills
-english C1+
+**Strengths:** 
+* Nonstop self-education
+* Strong time management skills
+* English C1+
 
+## Skills
+**Programming languages & Frameworks & Tools:** 
+* **JS**: Node.js, mocha, supertest
+* **Java**: Spring, JUnit, RestAssured, Selenium
+* **Version control**: GIT (GitHub, GitLab)
+* **Databases**: MySQL, Datastax
 
-##Skills
-programming languages & frameworks: 
-JS: Node.js, mocha, supertest
-Java: Spring, JUnit, RestAssured, Selenium
+## Code examples
+* [Web App](https://github.com/a-kunitskaya/webapp)
+* [Gift](https://github.com/a-kunitskaya/gift)
+* [Test Automation](https://github.com/a-kunitskaya/testautomation)
 
-version control: GIT (GitHub, GitLab)
-
-Databases: MySQL, Datastax
-
-##Code examples
-https://github.com/a-kunitskaya/webapp
-https://github.com/a-kunitskaya/gift
-https://github.com/a-kunitskaya/testautomation
-
-##Experience
+## Experience
 *Jan, 2019 - Sept, 2019*
 
 **Project:** EPAM Project B
@@ -64,6 +60,7 @@ Node.js, express, mocha, supertest, AWS, Datastax
 *Nov, 2017 - Jan, 2019*
 
 **Project:** EPAM Project A
+
 **Description:** B2B2C orders management system
 
 **Role:** Test Automation Engineer
@@ -76,23 +73,15 @@ Node.js, express, mocha, supertest, AWS, Datastax
 **Tools/Technologies:**
 Java 8, Spring, JUnit, RestAssured, Maven, IntelliJ IDEA, Git, Jenkins, JIRA, Confluence, Postman, Kibana
 
+## Education
 
-##Education
-2014-2018
-Belarusian State University
-International Relations Faculty
-International private law  
+Belarusian State University, International relations faculty (2014-2018)
 
-Year | Training Certificate | 
-2018 | Java Development Mentoring 
-2018 | Test Automation  
-2017 | Software Testing  
+| Year    | Training Certificate| 
+| ------------- |-------------| 
+| 2018|[Java Development Mentoring](https://drive.google.com/file/d/1MU2NlSU88MyDnovVwaJGMlCPS9BZIQB8/view)  |
+| 2018|[Test Automation](https://drive.google.com/file/d/1FtWdgbNdvvyR-TBRkHDUJ4uZG4QBJhZA/view)   | 
+| 2017|[Software Testing](https://drive.google.com/file/d/1unJJpaKVP8HOiHW0zLweF8N_W1AVfl8V/view) |  
 
-##English
+## English
 C1+
-
-
-
-
-
-
