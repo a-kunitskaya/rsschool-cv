@@ -3,12 +3,16 @@
 <head>
   <meta charset="utf-8">
   <title>Alexandra Kunitskaya</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
+<div class="container">
 <header>
+  <figure>
+    <img class="photo" src="assets/photo.jpg" alt="photo"/>
+  </figure>
   <h1>Alexandra Kunitskaya</h1>
-  <table id="contacts">
+  <table class="contact-info">
     <tr>
       <th>Cell</th>
       <th>Skype</th>
@@ -20,10 +24,6 @@
       <td>alexandra.kunitskaya@gmail.com</td>
     </tr>
   </table>
-  <figure>
-    <img src="myPic.jpeg"/>
-    <figcaption>Photo</figcaption>
-  </figure>
 </header>
 <main>
   <section>
@@ -49,7 +49,6 @@
         <li>English C1+</li>
       </ul>
     </article>
-
     <article id="skills">
       <h2>Skills</h2>
       <h3>Programming languages & Frameworks & Tools</h3>
@@ -62,7 +61,7 @@
     </article>
     <article id="Experience">
       <h2>Experience</h2>
-      <article id="developer">
+      <article id="experience-developer">
         <h3>Jan, 2019 - Sept, 2019</h3>
         <h4>Project description</h4>
         <p>API migration from Apigee/Usergrid to AWS/Datastax</p>
@@ -83,7 +82,7 @@
         <h4>Tools/Technologies</h4>
         <p>Node.js, express, mocha, supertest, AWS, Datastax</p>
       </article>
-      <article id="tester">
+      <article id="experience-tester">
         <h3>Nov, 2017 - Jan, 2019</h3>
         <h4>Project description</h4>
         <p>B2B2C orders management system</p>
@@ -100,8 +99,9 @@
       </article>
     </article>
     <article id="education">
+      <h2>Education</h2>
       <p>Belarusian State University, International relations faculty (2014-2018)</p>
-      <table border="2">
+      <table>
         <tr>
           <th>Year</th>
           <th>Training Certificate</th>
@@ -122,10 +122,10 @@
       </table>
     </article>
     <article id="English">
-      <h3>English</h3>
+      <h2>English</h2>
       <p>C1+</p>
     </article>
-    <aside>
+    <aside id="code-examples">
       <h4>Code examples</h4>
       <ul>
         <li><a href="https://github.com/a-kunitskaya/webapp">Web App</a></li>
@@ -135,12 +135,11 @@
     </aside>
   </section>
 </main>
+  <footer>
+    <p>Thank you for your time!</p>
+  </footer>
+</div>
 </body>
-
-<footer>
-  <p>Thank you for your time!</p>
-</footer>
-
 </html>
 
 
